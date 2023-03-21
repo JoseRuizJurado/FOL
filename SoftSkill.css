@@ -1,0 +1,55 @@
+body{background-image:url(Fondo.jpg);
+background-size:200%;}
+h1{font-family: 'Press Start 2P', cursive;
+    text-shadow: 5px 5px #558ABB;
+    background: linear-gradient(darkblue,blue, cyan);
+    -webkit-background-clip: text;
+    color: transparent;
+font-size:75px; }
+.img1{
+ margin-left: 500px;
+}
+.img2{
+    margin-left: 460px;
+   width:25%;}
+   .img3{
+    margin-left: 500px;
+   }
+   .img4{
+    margin-left: 480px;
+   }
+   .img5{
+    margin-left: 425px;
+   }
+.a{
+    color:black;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.b{
+    color:rgb(0, 0, 0);
+}
+.uno{
+    background-color:#0011ff60;
+    box-shadow: 10px 5px 5px black;
+}
+.dos{
+    background-color:#bfe3f360;
+    box-shadow: 10px 5px 5px black;
+}
+.tres{
+    background-color:#4ebff360;
+    box-shadow: 10px 5px 5px black;
+}
+.cuatro{
+    background-color:#17b5ff60;
+    box-shadow: 10px 5px 5px black;
+}
+.cinco{background-color:#17ffff60;
+    box-shadow: 10px 5px 5px black;}
+.seis{
+        background-color:#64f1f160;
+        box-shadow: 10px 5px 5px black;}
+.siete{
+            background-color:#00ffff60;
+            box-shadow: 10px 5px 5px black;}
