@@ -1,8 +1,8 @@
 body{background-image:url(Fondo.jpg);
 background-size:200%;}
 h1{font-family: 'Press Start 2P', cursive;
-    text-shadow: 5px 5px #558ABB;
-    background: linear-gradient(darkblue,blue, cyan);
+    text-shadow: 5px 5px #df2bb8;
+    background: linear-gradient(#ff28d0,#a30681, #6b0755);
     -webkit-background-clip: text;
     color: transparent;
 font-size:75px; }
@@ -30,26 +30,32 @@ font-size:75px; }
     color:rgb(0, 0, 0);
 }
 .uno{
-    background-color:#0011ff60;
+    background-color:#ff00aa60;
     box-shadow: 10px 5px 5px black;
+    padding: 3px;
 }
 .dos{
-    background-color:#bfe3f360;
+    background-color:#f543ce8f;
     box-shadow: 10px 5px 5px black;
+    padding: 3px;
 }
 .tres{
-    background-color:#4ebff360;
+    background-color:#420a3960;
     box-shadow: 10px 5px 5px black;
-}
+    padding: 3px;}
 .cuatro{
-    background-color:#17b5ff60;
+    background-color:#96215760;
     box-shadow: 10px 5px 5px black;
+    padding: 3px;
 }
-.cinco{background-color:#17ffff60;
-    box-shadow: 10px 5px 5px black;}
+.cinco{background-color:#dd5b7c60;
+    box-shadow: 10px 5px 5px black;
+    padding: 3px;}
 .seis{
-        background-color:#64f1f160;
-        box-shadow: 10px 5px 5px black;}
+        background-color:#79164f60;
+        box-shadow: 10px 5px 5px black;
+        padding: 3px;}
 .siete{
-            background-color:#00ffff60;
-            box-shadow: 10px 5px 5px black;}
+            background-color:#d1479860;
+            box-shadow: 10px 5px 5px black;
+            padding: 3px;}
